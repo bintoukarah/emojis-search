@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # emoji-search-mini-react
 # emojis-search
 # emojis-search
+# emojis-search
